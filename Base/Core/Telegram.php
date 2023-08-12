@@ -1,6 +1,6 @@
 <?php
 
-namespace Base;
+namespace Base\Core;
 
 class Telegram extends Request {
     public function sendMessage($chat_id, $text, $buttons = NULL, $buttonType = 'inline')
