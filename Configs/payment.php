@@ -1,0 +1,3 @@
+<?php
+
+$payment_token = '';
